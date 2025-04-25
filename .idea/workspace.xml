@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c0bc560-e147-46c9-9712-fe5aba25575e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+    &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/duckien06/Selenium_Railway_Group7.git&quot;,
+    &quot;accountId&quot;: &quot;&quot;
+    }
+    }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+    &quot;associatedIndex&quot;: 6
+    }</component>
+  <component name="ProjectId" id="2wDzCfBQtWZRuh83CpAssxrjHee" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.TC01.executor": "Run",
+    "TestNG.TC02.executor": "Run",
+    "TestNG.TC03.executor": "Run",
+    "TestNG.TC04.executor": "Run",
+    "TestNG.TC05.executor": "Run",
+    "TestNG.TC06.executor": "Run",
+    "TestNG.TC07.executor": "Run",
+    "TestNG.TC08.executor": "Run",
+    "TestNG.TC09.executor": "Run",
+    "TestNG.TC10.executor": "Run",
+    "TestNG.TC11.executor": "Run",
+    "TestNG.TC12.executor": "Run",
+    "TestNG.TC13.executor": "Run",
+    "TestNG.TC14.executor": "Run",
+    "TestNG.TC15.executor": "Run",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.TC13">
+    <configuration name="TC01" type="TestNG">
+      <module name="Selenium_Railway_Group7" />
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC01" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC02" type="TestNG">
+      <module name="Selenium_Railway_Group7" />
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC02" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC03" type="TestNG">
+      <module name="Selenium_Railway_Group7" />
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC03" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC04" type="TestNG">
+      <module name="Selenium_Railway_Group7" />
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC04" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC05" type="TestNG">
+      <module name="Selenium_Railway_Group7" />
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC05" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC06" type="TestNG">
+      <module name="Selenium_Railway_Group7" />
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC06" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC11" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Railway_Group7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.railway.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC11" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC12" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Railway_Group7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.railway.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC12" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC13" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Railway_Group7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.railway.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC13" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC14" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Railway_Group7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.railway.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC14" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC15" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Railway_Group7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.railway.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.railway.test" />
+      <option name="MAIN_CLASS_NAME" value="com.railway.test.TC15" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC13" />
+        <item itemvalue="TestNG.TC14" />
+        <item itemvalue="TestNG.TC15" />
+        <item itemvalue="TestNG.TC11" />
+        <item itemvalue="TestNG.TC12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c0bc560-e147-46c9-9712-fe5aba25575e" name="Changes" comment="" />
+      <created>1745552383420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745552383420</updated>
+      <workItem from="1745552384296" duration="17512000" />
+      <workItem from="1745590808119" duration="11140000" />
+      <workItem from="1745602000757" duration="916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
